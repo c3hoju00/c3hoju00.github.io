@@ -29,8 +29,8 @@ _________________
 
 #### Task list
 
--[x] Make a learning diary.
--[] Review two learning diaries.
+- [x] Make a learning diary.
+- [ ] Review two learning diaries.
 
 ______________
 
